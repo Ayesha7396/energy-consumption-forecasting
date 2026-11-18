@@ -1,4 +1,4 @@
-# Smart Energy Consumption Forecasting Using Machine Learning
+_# Smart Energy Consumption Forecasting Using Machine Learning
 
 A machine learning project that forecasts household electricity consumption for the **next hour** and the **next day** using historical usage data.
 
@@ -137,4 +137,4 @@ The model files were created with scikit-learn. Load them with the same scikit-l
 
 ## Author
 
- Asma Kausar
+ Asma kausar - Machine Learning Internship Project
